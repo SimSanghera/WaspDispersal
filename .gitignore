@@ -1,0 +1,9 @@
+# Git ignore for wasp dispersal
+*.Rhistory
+temp
+*.db
+*.ini
+wasp_data_output
+wasp_figures
+wasp_documentation
+wasp_journals
