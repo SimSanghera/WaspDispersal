@@ -1,7 +1,7 @@
 # Git ignore for wasp dispersal
 # Stop users from loading own projects
-.Rproj.user
-.Rproj
+#.Rproj.user
+#.Rproj
 *.Rhistory
 temp
 *.db
