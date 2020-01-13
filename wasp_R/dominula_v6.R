@@ -1,1 +1,0 @@
-#-----  Dominula Model  -----
